@@ -1,0 +1,62 @@
+
+file.c,
+ 字符数: 37
+
+file2.c,
+ 单词数: 5
+
+file3.c,
+ 行数: 26
+
+file4.c,
+ 单词数: 16
+
+file5.c,
+ 单词数: 40
+
+file7.c,
+代码行: 6 空行: 2 注释行: 0
+
+file8.c,
+代码行: 10 空行: 4 注释行: 0
+
+file8.c,
+代码行: 9 空行: 4 注释行: 1
+
+file9.c,
+ 字符数: 384
+
+ 单词数: 51
+
+ 行数: 18
+
+E:\zuoye\BIN\file.c,
+ 单词数: 8
+
+E:\zuoye\BIN\file10.c,
+ 单词数: 50
+
+E:\zuoye\BIN\file2.c,
+ 单词数: 5
+
+E:\zuoye\BIN\file3.c,
+ 单词数: 47
+
+E:\zuoye\BIN\file4.c,
+ 单词数: 16
+
+E:\zuoye\BIN\file5.c,
+ 单词数: 40
+
+E:\zuoye\BIN\file6.c,
+ 单词数: 38
+
+E:\zuoye\BIN\file7.c,
+ 单词数: 18
+
+E:\zuoye\BIN\file8.c,
+ 单词数: 24
+
+E:\zuoye\BIN\file9.c,
+ 单词数: 51
+
